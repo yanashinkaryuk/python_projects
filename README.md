@@ -25,7 +25,7 @@
     </tr>
     <tr>
         <td>
-          <a href="">Хакатон от Кинопоиска</a>
+          <a href="https://github.com/yanashinkaryuk/python_projects/blob/3f5ba2ddeb5c48035223553a4f79d4b4119e22d2/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%20%D0%BE%D1%82%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0/kinopoisk_final.ipynb">Хакатон от Кинопоиска</a>
          </td>
         <td> 
         Анализ телеграм-канала Кинопоиска:
